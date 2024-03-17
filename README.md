@@ -5,9 +5,8 @@ i'm just nOOb developer ( mantaining Samsung Galaxy M21)
 Status:
 ===========
 ```bash
-A14: wip
+Android 14: wip
 
-```
 Local Manifests
 ===========
 # upside down cake (A14) #
