@@ -4,8 +4,8 @@ i'm just nOOb developer ( mantaining Samsung Galaxy M21)
 
 Status:
 ===========
-```bash
 Android 14: wip
+
 
 Local Manifests
 ===========
