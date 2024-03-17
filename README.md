@@ -1,31 +1,17 @@
-### Hi there 👋
-
-i'm just nOOb developer ( device Samsung M21)
-
-### Local Manifests
-Upside Down Cake (Android 14)
-
-  git clone https://github.com/ahmadsubqi/local_manifests.git -b udc .repo/local_manifests
-Hey There!
+ Hi there 👋
 ===========
-This is an organisation for my samsung devices. i am currently maintaining samsung galaxy m30s (m307f) will may maintain other devices i have soon.
+i'm just nOOb developer ( mantaining Samsung Galaxy M21)
 
 Status:
 ===========
 ```bash
-A13: boots (use -13 branch)
 A14: wip
+
 ```
 Local Manifests
 ===========
-# tiramisu #
+# upside down cake (A14) #
 ----------------
 ```bash
-   git clone https://github.com/sundrams-playground/local_manifests.git -b tiramisu .repo/local_manifests
-```
+    git clone https://github.com/ahmadsubqi/local_manifests.git -b udc .repo/local_manifests
   
-# upside down cake # 
-----------------
-```bash
-  git clone https://github.com/sundrams-playground/local_manifests.git -b udc .repo/local_manifests
-```
