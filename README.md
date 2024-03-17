@@ -5,6 +5,7 @@ i'm just nOOb developer ( Mantaining Samsung Galaxy M21)
 Status :
 --------
 Android 13 : Drop (need new maintened)
+
 Android 14 : WIP
 
 Local Manifests :
