@@ -1,13 +1,13 @@
- Hi there 👋
+Hi there 👋
 ===========
-i'm just nOOb developer ( mantaining Samsung Galaxy M21)
+i'm just nOOb developer ( Mantaining Samsung Galaxy M21)
 
-Status:
+Status :
 ===========
-Android 14: wip
+Android 13 : Drop (need new maintened)
+Android 14 : WIP
 
-
-Local Manifests
+Local Manifests :
 ===========
 Android 14 ( Upside Down Cake)
 ```bash
