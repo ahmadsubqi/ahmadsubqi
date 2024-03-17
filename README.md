@@ -4,7 +4,7 @@ i'm just nOOb developer ( Mantaining Samsung Galaxy M21)
 
 Status :
 --------
-Android 13 : Drop (need new maintened)
+Android 13 : Dropped (need new maintener)
 
 Android 14 : WIP
 
